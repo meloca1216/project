@@ -1,0 +1,27 @@
+BOGGLE:
+Select letters to form words by clicking on the dice.  You can only choose a letter if it's
+adjacent to the last selected letter and it hasn't yet been selected.  You can unselect letters 
+in reverse orderby clicking them again.
+Submit words by pressing "Enter".
+
+* 4 by 4 *
+Only real words with 3 letters or more will be accepted and scored accordingly.
+
+* 5 by 5 *
+Only real words with 4 letters or more will be accepted and scored accordingly.
+
+* Challenge Cube *
+The challenge cube consists of 6 relatively uncommon letters and can be implemented in both 
+4 by 4 and 5 by 5 gameplay.
+
+Scoring:
+Scoring is based on the length of the word.
+	length : points
+	   3   :   1
+	   4   :   1
+	   5   :   2
+	   6   :   3
+	   7   :   5
+	   8+  :   11
+An additional 3 points will be award for words using the challenge cube. 
+
